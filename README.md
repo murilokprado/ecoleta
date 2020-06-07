@@ -76,7 +76,7 @@ As in frontend, mobile application builded using [axios](https://github.com/axio
 - Whatsapp message :heavy_check_mark:
 - E-mail message :heavy_check_mark:
 
-![](/mobile/screenrecord/record.gif)
+![](/mobile/screenrecord/mobile.gif)
 
 ### Running
 
